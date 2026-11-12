@@ -1,4 +1,4 @@
-# ignoreo-com
+# IGNOREO
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,109 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ignoreo-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://ignoreo.com/
+IGNOREO provides small add‑ons that let AI agents pay for themselves safely. The platform offers pay‑per‑use tools with no sign‑up or subscription, focusing on privacy, security and easy integration for developers.
+
+**Areas:** AI · Tools · Pay-per-use · Privacy · Security
+
+## IGNOREO on APIs.io
+
+Everything profiled for IGNOREO is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ignoreo-com/](https://apis.io/providers/ignoreo-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (10)
+
+- [IGNOREO Backgammon API](https://apis.io/apis/ignoreo-com/ignoreo-com-backgammon-api/) — The Backgammon API from IGNOREO — 1 operation(s) for backgammon.
+- [IGNOREO Chess API](https://apis.io/apis/ignoreo-com/ignoreo-com-chess-api/) — The Chess API from IGNOREO — 1 operation(s) for chess.
+- [IGNOREO Email Check API](https://apis.io/apis/ignoreo-com/ignoreo-com-email-check-api/) — The Email Check API from IGNOREO — 1 operation(s) for email check.
+- [IGNOREO Free API](https://apis.io/apis/ignoreo-com/ignoreo-com-free-api/) — The Free API from IGNOREO — 6 operation(s) for free.
+- [IGNOREO Id Check API](https://apis.io/apis/ignoreo-com/ignoreo-com-id-check-api/) — The Id Check API from IGNOREO — 1 operation(s) for id check.
+- [IGNOREO Lockbox API](https://apis.io/apis/ignoreo-com/ignoreo-com-lockbox-api/) — The Lockbox API from IGNOREO — 9 operation(s) for lockbox.
+- [IGNOREO Page Proof API](https://apis.io/apis/ignoreo-com/ignoreo-com-page-proof-api/) — The Page Proof API from IGNOREO — 1 operation(s) for page proof.
+- [IGNOREO Privacy Guard API](https://apis.io/apis/ignoreo-com/ignoreo-com-privacy-guard-api/) — The Privacy Guard API from IGNOREO — 1 operation(s) for privacy guard.
+- [IGNOREO Site Check API](https://apis.io/apis/ignoreo-com/ignoreo-com-site-check-api/) — The Site Check API from IGNOREO — 1 operation(s) for site check.
+- [IGNOREO Vin Check API](https://apis.io/apis/ignoreo-com/ignoreo-com-vin-check-api/) — The Vin Check API from IGNOREO — 1 operation(s) for vin check.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [IGNOREO Agentic Access](https://apis.io/agentic-access/ignoreo-com/ignoreo-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [IGNOREO API Rules](https://apis.io/rules/ignoreo-com/ignoreo-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [IGNOREO Domain Security](https://apis.io/security/ignoreo-com/ignoreo-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ignoreo.com/)
+- [Terms of service](https://ignoreo.com/terms)
+- [Privacy policy](https://ignoreo.com/s/privacy-guard)
+
+## API Evangelist rating
+
+**Kin Score 29.7** — thin · rubric 0.27.0 · scored 2026-11-12
+
+| Facet | Score |
+|---|---|
+| Discoverability | 62.5 |
+| Contract quality | 44.1 |
+| Contract governance | 65.5 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 21.1 |
+
+**Agent readiness 26.8** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ignoreo-com/](https://apis.io/providers/ignoreo-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for IGNOREO: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ignoreo-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
